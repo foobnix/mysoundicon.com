@@ -2,8 +2,8 @@
   <img src="docs/icon_256x256.png" width="128" height="128" alt="My Sound Icon">
   
   <h1>My Sound Icon</h1>
-  <p><b>Take Control of Your Mac's Audio Device Icons</b></p>
-  <p>Easily manage input and output audio devices, intercept
+  <p><b>Take Control of Your Sound Devices</b></p>
+  <p>Easily manage input and output audio devices, change icons, intercept
                     media keys, volume controls with a beautiful UI</p>
   
   <a href="https://github.com/foobnix/mysoundicon.com/releases"><b>Download for macOS</b></a>
