@@ -3,7 +3,7 @@
   
   <h1>My Sound Icon</h1>
   <p><b>Take Control of Your Mac's Audio Device Icons</b></p>
-  <p>Easily manage input and output audio devices , intercept
+  <p>Easily manage input and output audio devices, intercept
                     media keys, volume controls with a beautiful UI</p>
   
   <a href="https://github.com/foobnix/mysoundicon.com/releases"><b>Download for macOS</b></a>
