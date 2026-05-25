@@ -26,7 +26,6 @@
 
 ## Features
 
-- **Native HUD Replacement**: Globally intercepts volume and mute keys to display a stunning, customized Heads-Up Display that instantly auto-hides.
 - **Smart Quick-Switch**: Star your favorite headphones and speakers. Simply right-click the tray icon to instantly cycle through them without opening a menu.
 - **Customizable Icons**: Assign unique Apple SF Symbols to every audio device you own so you can recognize your active output at a glance.
 - **Built-in Media Controls**: Play, pause, and skip tracks seamlessly straight from your menu bar using native macOS media event integration.
