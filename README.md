@@ -34,5 +34,6 @@
 ---
 
 <div align="center">
-  &copy; 2026 Ivan Ivanenko. Built for macOS.
+  &copy; 2026 Ivan Ivanenko. Built for macOS.<br>
+  Contact: <a href="mailto:ivan.ivanenko@gmail.com">ivan.ivanenko@gmail.com</a>
 </div>
