@@ -3,8 +3,7 @@
   
   <h1>My Sound Icon</h1>
   <p><b>Take Control of Your Sound Devices</b></p>
-  <p>Easily manage input and output audio devices, change icons, intercept
-                    media keys, volume controls with a beautiful UI</p>
+  <p>Easily manage audio inputs and outputs, customize device icons, and star your favorites to switch between them in a single click.<br>Intercept media keys and control volume - all within a beautiful UI.<br>The app is completely free.</p>
   
   <a href="https://github.com/foobnix/mysoundicon.com/releases"><b>Download for macOS</b></a>
 </div>
@@ -21,13 +20,13 @@
 | Right Click                                                                       | Mouse Wheel                                                         | Middle Click                                                                  |
 | :---------------------------------------------------------------------------------:| :-------------------------------------------------------------------:| :-----------------------------------------------------------------------------:|
 | <img src="docs/feature_right_click.png" alt="Right Click">                        | <img src="docs/feature_scroll.png" alt="Mouse Wheel">               | <img src="docs/feature_middle_click.png" alt="Middle Click">                  |
-| Quickly cycle through your starred audio output devices without opening the menu. | Change volume instantly by scrolling up or down over the tray icon. | Play or pause your current media with a simple middle click on the tray icon. |
+| Quickly cycle through your starred audio output devices without opening the menu. | Change volume instantly by scrolling up or down over the menu bar icon. | Play or pause your current media with a simple middle click on the menu bar icon. |
 
 ---
 
 ## Features
 
-- **Smart Quick-Switch**: Star your favorite headphones and speakers. Simply right-click the tray icon to instantly cycle through them without opening a menu.
+- **Smart Quick-Switch**: Star your favorite headphones and speakers. Simply right-click the menu bar icon to instantly cycle through them without opening a menu.
 - **Customizable Icons**: Assign unique Apple SF Symbols to every audio device you own so you can recognize your active output at a glance.
 - **Built-in Media Controls**: Play, pause, and skip tracks seamlessly straight from your menu bar using native macOS media event integration.
 
