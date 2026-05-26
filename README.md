@@ -10,6 +10,14 @@
 
 ---
 
+## What Problems Does MySoundIcon Solve?
+
+- **Multiple USB DACs**: "I have two USB DACs always connected: one for speakers and one for headphones. MySoundIcon helps me switch the sound output in one mouse click."
+- **Quick AirPods Switch**: "I have AirPods connected to my MacBook and I want to instantly switch the output sound device to them."
+- **Microphone Input & Levels**: "I need to easily switch the input microphone and adjust its level without going deep into the macOS System Settings."
+
+---
+
 ## Overview
 
 | Choose output | Customizable icon | Star device |
